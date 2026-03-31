@@ -5,6 +5,37 @@
 
 ## 📋 Decision Record
 
+### 2026-03-31 20:55 JST — CEO Restructure: Minmei Becomes True Supervisor
+**Decision:** CEO (Minmei) stops executing content/code/posting. Becomes pure dispatcher.
+
+**Reasoning:**
+- Minmei was doing all the work (building articles, posting, managing) instead of delegating
+- Real CEO behavior: set direction, dispatch to specialists, hold accountable
+- Paperclip agents (Growth Engine, Product Builder, Finance Metrics) are the workforce
+- Minmei main session = supervisor, not worker
+
+**Changes:**
+- Created CEO_AGENT_BRIEF.md — pure dispatcher role
+- Set up 3 Paperclip routines (Growth 8AM, Product Builder 9AM, Finance Metrics 10AM)
+- Minmei now ONLY: read workspace, prioritize, dispatch, update reports
+- Agents do: content, building, tracking
+- Commit to git after every session
+
+### 2026-03-31 20:40 JST — Agent System Formalized (VoltAgent Pattern)
+**Decision:** Created AGENT_SYSTEM.md with VoltAgent-style patterns
+
+**Agents (7 total, 2 dormant):**
+- CEO (Minmei) — supervisor
+- Growth-Operator (Growth Engine) — active
+- MVP-Builder (Product Builder) — active
+- Finance-Metrics (Finance Metrics) — active
+- Review-Risk — absorbed into CEO
+- Agent-Architect — CEO handles
+- Opportunity-Researcher — dormant
+- Offer-Designer — dormant
+
+**VoltAgent reference:** Used `supervisor` pattern for CEO role, `growth-marketing` for Growth-Operator
+
 ### 2026-03-31 18:55 JST — ADDENDUM: Revenue Pressure System
 **Decision:** Adopt aggressive revenue-seeking operating system v2.0
 
