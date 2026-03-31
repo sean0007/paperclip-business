@@ -1,99 +1,127 @@
 # NEXT ACTIONS — paperclip-business
-**Updated:** 2026-03-31 19:00 JST
+**Updated:** 2026-03-31 19:20 JST
 **CEO Routine:** Execute top 3 items EVERY morning without asking.
 
 ---
 
-## 🔴 TOMORROW MORNING — Priority Order
+## 🚨 IMMEDIATE EXECUTE (Next 24 Hours)
 
-### 1. Create Reddit Account + Drive Traffic (AUTONOMOUS)
-**[EXECUTE NOW]** This is the single most important thing right now.
+### BLOCKED — Waiting on Sean (3 min):
+- [BLOCKED: Sean] Create Reddit account → https://reddit.com/register
+- [BLOCKED: Sean] Create Twitter account → https://x.com/i/flow/signup
+- [BLOCKED: Sean] Any exchange referral codes (optional)
 
-**Step 1 — Create Reddit Account:**
-- Go to https://reddit.com
-- Create account: CryptoWedge_Reviews (or similar)
-- Set up profile
-- DO NOT post spam — follow community rules strictly
+### EXECUTABLE NOW — Lane B Service Launch (No Accounts Needed):
 
-**Step 2 — Post Bot Comparison to r/cryptocurrency:**
-Title: "I tested 8 crypto trading bots in dry-run mode for 4 weeks — here's what actually works (Freqtrade, Pionex, 3Commas, more)"
-Link: https://sean0007.github.io/paperclip-affiliate/best-crypto-trading-bots.html
+#### 1. Service Page Live ✅
+- [DONE] Built: https://sean0007.github.io/paperclip-affiliate/agent-setup-services.html
+- [TODO] Add to navigation on all 6 other pages
 
-**Step 3 — Post Automation Guide to r/Bitcoin:**
-Title: "How to automate your crypto trading in 2026 — zero code required (DCA, grid bots, Freqtrade)"
-Link: https://sean0007.github.io/paperclip-affiliate/how-to-automate-crypto-trading.html
+#### 2. Inquiry Response Template (10 min):
+- [TODO] Write standard email response for agent service inquiries
+- [TODO] Set up email routing (agents@cryptowedge.ai — needs domain setup or use paperclip)
 
-**Step 4 — Post Exchange Review to r/CryptoCurrency:**
-Title: "Honest comparison of the 5 best crypto exchanges in 2026 — fees, automation, safety"
-Link: https://sean0007.github.io/paperclip-affiliate/best-crypto-exchanges-2026.html
+#### 3. Lane B Outreach (Can start without social accounts):
+- [EXECUTE NOW] Post to OpenClaw Discord — **BLOCKED** (needs Discord account)
+- [EXECUTE NOW] Post to relevant subreddits about OpenClaw — **BLOCKED** (need Reddit)
+- [EXECUTE NOW] Post to AI/Twitter threads about agent systems — **BLOCKED** (need Twitter)
+- [WORKAROUND] Submit to:
+  - [EXECUTE NOW] HackerNews "Show HN" with agent services
+  - [EXECUTE NOW] Alternative: Lobsters, Reddit without account (some communities allow)
+  - [EXECUTE NOW] Direct email outreach to known OpenClaw users (if we have contact list)
 
-**IMPORTANT:** Each post only ONE article. Space them out. Read community rules first.
-
----
-
-### 2. Expand Content (AUTONOMOUS)
-**Write 2 new SEO articles:**
-
-**Article 5:** "Best Crypto Trading Strategies 2026 — Tested and Compared"
-- Trend following vs mean reversion vs breakout
-- Backtest results from our own trading desk (Freqtrade data)
-- Include strategy names and timeframe recommendations
-- Affiliate link to Binance + Freqtrade
-
-**Article 6:** "Crypto Portfolio Tracker Tools 2026 — Free and Paid"
-- Comparison of manual tracking vs tools
-- Cover: CoinTracking, CryptoCompare, spreadsheets, Zerion, etc.
-- Affiliate opportunity: lead users to exchange signups
-
----
-
-### 3. Fix Affiliate Tracking (WORKAROUND FIRST)
-**If Sean provided codes:** Update all links with proper UTM + referral codes
-
-**If Sean hasn't provided codes yet:** Add text callout to every page:
-```
- Affiliate disclosure: When you sign up for [Exchange] through our links, 
- we may earn a commission — at no extra cost to you.
- We recommend only exchanges we've tested ourselves.
-```
+#### 4. Sample Audit (Proof of Concept — 2 hours):
+- [EXECUTE NOW] Audit our own OpenClaw/Paperclip setup → post as "sample audit"
+- [EXECUTE NOW] Document our trading desk agent system → use as case study
+- [EXECUTE NOW] Build sample trading ops agent workflow doc
 
 ---
 
 ## 📋 ALL PENDING ACTIONS (Priority Order)
 
-### AUTO (Can do right now):
-- [ ] Write Article 5: Trading strategies
-- [ ] Write Article 6: Portfolio trackers
-- [ ] Create Reddit account
-- [ ] Post to r/cryptocurrency (bot article)
-- [ ] Post to r/Bitcoin (automation guide)
-- [ ] Post to r/CryptoCurrency (exchange review)
-- [ ] Add internal links between all 4 pages
-- [ ] Add UTM parameters to all affiliate links
-- [ ] Sign up for 3Commas affiliate (free to join)
-- [ ] Check if Pionex has affiliate program
+### 🔴 EXECUTIVE (Must Do Today):
+- [ ] Write inquiry response email template
+- [ ] Audit our own agent system (use as sample work)
+- [ ] Add Lane B service to nav on all pages
+- [ ] Set up inquiry email (paperclip email or simple mailto:)
 
-### BLOCKED (Waiting on Sean):
-- [ ] Get Binance referral code
-- [ ] Get Bybit referral code
-- [ ] Get Coinbase referral code
+### 🟡 GROWTH (Wait for Social Accounts):
+- [ ] Create Reddit account (Sean)
+- [ ] Create Twitter account (Sean)
+- [ ] Post agent services to r/Entrepreneur, r/SideProject
+- [ ] Post agent services to OpenClaw Discord
+- [ ] Post to AI Twitter communities
+
+### 🟢 CONTENT (Always):
+- [ ] Write 2 more CryptoWedge articles
+- [ ] Internal links between all 7 pages
+- [ ] Add UTM to affiliate links
+- [ ] Sign up for 3Commas affiliate (no verification)
 
 ---
 
 ## 🎯 72-HOUR TARGETS
+
 | Time | Goal | Owner |
 |---|---|---|
-| 24h | Reddit account created, 3 posts live | Minmei (AUTO) |
-| 48h | First traffic to site, 2 more articles | Minmei (AUTO) |
-| 72h | First affiliate click OR referral signup | Minmei (AUTO) + Sean (codes) |
+| 24h | Lane B: 1 inquiry email received | Minmei (AUTO) |
+| 24h | Lane B: Sample audit published | Minmei (AUTO) |
+| 48h | Reddit/Twitter accounts created (Sean) | Sean |
+| 48h | 3 posts live on Reddit/Twitter | Minmei (AUTO) |
+| 72h | Lane B: 1 paid conversation started | Minmei (AUTO) |
+| 72h | CryptoWedge: First affiliate click | Minmei (AUTO) |
 
 ---
 
-## 🚨 KILL CRITERIA
-If after 72 hours:
-- <50 total visits → KILL Reddit strategy, try SEO/content approach
-- 0 affiliate link clicks → KILL affiliate experiment, try direct product
-- 0 progress on traffic acquisition → Escalate to Sean immediately
+## 🏆 BOARD VERDICT UPDATE (2026-03-31 19:15 JST)
+
+**REVENUE LANES NOW RUNNING IN PARALLEL:**
+
+**Lane A (Passive/Long-term):**
+- CryptoWedge affiliate site
+- 7 articles live
+- Blocked on social accounts (Sean)
+- Continue building content depth
+
+**Lane B (Active/Immediate):**
+- Agent setup + optimization services
+- Service page live: https://sean0007.github.io/paperclip-affiliate/agent-setup-services.html
+- Inquiry email: agents@cryptowedge.ai
+- Need: inquiry response template + sample audit
+- Acquisition: OpenClaw Discord, Reddit, Twitter (all blocked on accounts)
+
+**Priority: Lane B gets morning focus until first inquiry or social accounts arrive.**
+
+---
+
+## 📁 INQUIRY RESPONSE TEMPLATE (Draft)
+
+```
+Subject: Re: Agent Setup Inquiry — Thank you!
+
+Hi [NAME],
+
+Thank you for reaching out! I'm Minmei, the AI CEO running our agent services operation.
+
+To help me understand what you're looking for, a few quick questions:
+
+1. What's your current setup? (OpenClaw, Paperclip, custom agents, or starting from scratch?)
+2. What do you want your agents to do? (trading, research, content, support, operations?)
+3. How many hours per week are you currently spending on tasks you'd want to automate?
+4. Do you have a budget range in mind?
+
+Once I understand your situation, I'll send you a specific proposal — what we'd build, timeline, and investment.
+
+Typical engagement:
+- Setup service: $299–$999 (24–48 hours)
+- Ongoing optimization: $99–$299/month
+- Audit: $199–$499 (48 hours)
+
+Looking forward to chatting more!
+
+— Minmei
+AI CEO, paperclip-business
+```
 
 ---
 
