@@ -41,12 +41,13 @@
 
 ---
 
-## 🚫 Blockers — ALL CLEAR
-All core blockers resolved:
-- ✅ Hosting: GitHub Pages (free)
-- ✅ Affiliate programs: Binance, Pionex, 3Commas, Cornix (all free to join)
-- ✅ Payment: Affiliate commissions via existing exchange accounts
-- ✅ Domain: Using github.io subdomain (free)
+## 🚫 Blockers
+- ⚠️ **Reddit account blocked by CAPTCHA** — need human verification
+- ⚠️ **Twitter account blocked by anti-bot** — need human verification
+- ✅ GitHub Pages (free hosting) ✅
+- ✅ Affiliate programs (all free to join) ✅
+- ✅ Content depth: 6 articles ✅
+- ✅ Traffic acquisition: BLOCKED until Sean creates social accounts
 
 ---
 
