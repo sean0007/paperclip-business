@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-01 07:00 JST
+**Last updated:** 2026-04-02 07:00 JST
 
 ---
 
@@ -7,9 +7,9 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 1 | 🟡 Day 2 — site live |
+| **days_to_first_revenue** | 3 | 🟡 Day 3 — site live, content growing |
 | **unresolved_dependencies** | 1 | 🟡 Waiting on Sean for social accounts |
-| **launched_experiments** | 1 | 🟡 Active |
+| **launched_experiments** | 2 | 🟡 Active |
 | **weak_signals** | 0 | ⏳ No traffic yet |
 | **medium_signals** | 0 | ⏳ No inquiries yet |
 | **strong_signals** | 0 | ⏳ No revenue yet |
@@ -22,7 +22,7 @@
 ## 🌐 Live Site
 **URL:** https://sean0007.github.io/paperclip-affiliate
 **Repo:** https://github.com/sean0007/paperclip-affiliate
-**Status:** ✅ LIVE — deployed 2026-03-31 17:25 JST
+**Status:** ✅ LIVE — 8 articles now (2 new added today)
 
 ---
 
@@ -30,28 +30,29 @@
 
 | Experiment | Channel | Hypothesis | Days Active | Signals | Status |
 |---|---|---|---|---|---|
-| CryptoWedge SEO Content | Reddit / Search | Articles rank + drive affiliate clicks | 1 | 0 | 🟡 LIVE — waiting on traffic |
-| Lane B Agent Services | Discord / Reddit / Email | Founders pay for agent setup/audit services | 1 | 0 | 🟡 LIVE — inquiry template ready |
+| CryptoWedge SEO Content | Reddit / Search | Articles rank + drive affiliate clicks | 2 | 0 | 🟡 LIVE — 8 articles, social blocked |
+| Lane B Agent Services | Discord / Reddit / Email / HN | Founders pay for agent setup/audit services | 2 | 0 | 🟡 LIVE — HN draft ready |
 
 ---
 
 ## 🚦 Signal Summary
-- Weak (views/clicks): **0** ⏳
+- Weak (views/clicks): **0** ⏳ (site live 48h+, no traffic from social yet)
 - Medium (signups/inquiries): **0** ⏳
 - Strong (payments/intent): **0** ⏳
 
 ---
 
 ## 🚫 Blockers
-- ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (48h+ escalated)
-- ⚠️ **Twitter account blocked by anti-bot** — need human verification (48h+ escalated)
-- ⚠️ **No inquiries yet for Lane B** — template ready, need distribution
+- ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (96h+ escalated to Sean)
+- ⚠️ **Twitter account blocked by anti-bot** — need human verification (96h+ escalated to Sean)
+- ⚠️ **No inquiries yet for Lane B** — template ready, HN draft ready, sample audit ready
 - ✅ GitHub Pages (free hosting) ✅
 - ✅ Affiliate programs (all free to join) ✅
-- ✅ Content depth: 6 articles ✅
+- ✅ Content depth: 8 articles ✅ (2 added Day 3)
 - ✅ Lane B service page live ✅
 - ✅ Inquiry template ready ✅
-- ✅ Sample audit (this run) ✅
+- ✅ Sample audit (real work, shareable) ✅
+- ✅ HN Show HN draft ready ✅ (ready to submit)
 
 ---
 
@@ -65,18 +66,18 @@
 
 ---
 
-## 🎯 Today's Executive Focus (2026-04-01)
-1. Lane B: Publish sample audit → distribute via available channels
-2. Lane B: Prepare HackerNews "Show HN" submission
-3. Lane A: Write 2 more SEO articles (if time permits)
-4. Escalate: Sean still needs to create social accounts (72h+ blocker)
+## 🎯 Today's Executive Focus (2026-04-02)
+1. Lane B: HN Show HN draft created ✅ → Sean submits
+2. Lane A: 2 new SEO articles added ✅ (charting tools + trading alerts)
+3. Lane B: Sample audit distributed (HN draft references it)
+4. Escalate: Sean needs to create social accounts (96h+ blocker — tonight's escalation)
 
 ---
 
 *Next update: Tonight 8PM JST automated*
 
 ## Trading Desk (seans Trading Desk Co.)
-- Updated: 2026-04-01
+- Updated: 2026-04-02
 - Capital: $10,000.00
 - Total P&L: $-3.93
 - Total Trades: 860
@@ -84,7 +85,7 @@
 - Daily P&L: $0.00
 
 ## Active Experiments Summary
-- Updated: 2026-04-01
+- Updated: 2026-04-02
 - Total Active: 4
 - Strong Signals (7d): 0
 - Medium Signals (7d): 0
