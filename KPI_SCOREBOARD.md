@@ -76,6 +76,7 @@
 
 *Next update: Tonight 8PM JST automated*
 
+
 ## Trading Desk (seans Trading Desk Co.)
 - Updated: 2026-04-02
 - Capital: $10,000.00
@@ -83,6 +84,7 @@
 - Total Trades: 860
 - Win Rate: 15.8%
 - Daily P&L: $0.00
+
 
 ## Active Experiments Summary
 - Updated: 2026-04-02
