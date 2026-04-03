@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-02 07:00 JST
+**Last updated:** 2026-04-04 07:00 JST
 
 ---
 
@@ -7,22 +7,22 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 3 | 🟡 Day 3 — site live, content growing |
-| **unresolved_dependencies** | 1 | 🟡 Waiting on Sean for social accounts |
-| **launched_experiments** | 2 | 🟡 Active |
+| **days_to_first_revenue** | 4 | 🟡 Day 4 — experiments live, distribution blocked |
+| **unresolved_dependencies** | 3 | 🔴 Reddit + Twitter + HN (all 96h+ overdue, Sean-owned) |
+| **launched_experiments** | 2 | 🟡 Active (CryptoWedge + Lane B) |
 | **weak_signals** | 0 | ⏳ No traffic yet |
 | **medium_signals** | 0 | ⏳ No inquiries yet |
 | **strong_signals** | 0 | ⏳ No revenue yet |
 | **conversion_rate_by_channel** | N/A | — |
-| **revenue_to_date** | **$0.00** | 🟡 In progress |
-| **next_blocking_constraint** | Social accounts + Lane B inquiries | 🚀 |
+| **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 4, zero revenue |
+| **next_blocking_constraint** | Social accounts + HN submission (Sean) | 🚨 |
 
 ---
 
 ## 🌐 Live Site
 **URL:** https://sean0007.github.io/paperclip-affiliate
 **Repo:** https://github.com/sean0007/paperclip-affiliate
-**Status:** ✅ LIVE — 8 articles now (2 new added today)
+**Status:** ✅ LIVE — 8 articles
 
 ---
 
@@ -30,29 +30,29 @@
 
 | Experiment | Channel | Hypothesis | Days Active | Signals | Status |
 |---|---|---|---|---|---|
-| CryptoWedge SEO Content | Reddit / Search | Articles rank + drive affiliate clicks | 2 | 0 | 🟡 LIVE — 8 articles, social blocked |
-| Lane B Agent Services | Discord / Reddit / Email / HN | Founders pay for agent setup/audit services | 2 | 0 | 🟡 LIVE — HN draft ready |
+| CryptoWedge SEO Content | Reddit / Search | Articles rank + drive affiliate clicks | 4 | 0 | 🟡 LIVE — blocked on Sean (social accounts) |
+| Lane B Agent Services | Discord / Reddit / Email / HN | Founders pay for agent setup/audit services | 4 | 0 | 🟡 LIVE — blocked on Sean (HN submission) |
 
 ---
 
 ## 🚦 Signal Summary
-- Weak (views/clicks): **0** ⏳ (site live 48h+, no traffic from social yet)
+- Weak (views/clicks): **0** ⏳ (site live 4 days, no traffic from social yet)
 - Medium (signups/inquiries): **0** ⏳
 - Strong (payments/intent): **0** ⏳
 
 ---
 
-## 🚫 Blockers
-- ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (96h+ escalated to Sean)
-- ⚠️ **Twitter account blocked by anti-bot** — need human verification (96h+ escalated to Sean)
-- ⚠️ **No inquiries yet for Lane B** — template ready, HN draft ready, sample audit ready
+## 🚫 Blockers (Sean-Owned — 96h+ Overdue)
+- ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (Sean)
+- ⚠️ **Twitter account blocked by anti-bot** — need human verification (Sean)
+- ⚠️ **HN Show HN post not submitted** — draft ready at ASSETS/HN_SHOW_HN_DRAFT.md (Sean)
 - ✅ GitHub Pages (free hosting) ✅
 - ✅ Affiliate programs (all free to join) ✅
-- ✅ Content depth: 8 articles ✅ (2 added Day 3)
+- ✅ Content depth: 8 articles ✅
 - ✅ Lane B service page live ✅
 - ✅ Inquiry template ready ✅
 - ✅ Sample audit (real work, shareable) ✅
-- ✅ HN Show HN draft ready ✅ (ready to submit)
+- ✅ HN Show HN draft ready ✅
 
 ---
 
@@ -66,16 +66,15 @@
 
 ---
 
-## 🎯 Today's Executive Focus (2026-04-02)
-1. Lane B: HN Show HN draft created ✅ → Sean submits
-2. Lane A: 2 new SEO articles added ✅ (charting tools + trading alerts)
-3. Lane B: Sample audit distributed (HN draft references it)
-4. Escalate: Sean needs to create social accounts (96h+ blocker — tonight's escalation)
+## 🎯 CEO Status (2026-04-04)
+- Lane B: All assets ready (service page, audit, HN draft, inquiry template)
+- Lane A: 8 articles live, fully built
+- BOTH EXPERIMENTS BLOCKED on Sean creating social accounts and submitting HN post
+- 96h+ escalation delivered (Day 2 evening, Day 3 evening)
+- **Operating decision: Reduce content pace to maintenance; no new articles until distribution works**
+- **Escalation severity: CRITICAL — business is DOA without Sean's 5 minutes**
 
 ---
-
-*Next update: Tonight 8PM JST automated*
-
 
 ## Trading Desk (seans Trading Desk Co.)
 - Updated: 2026-04-02
@@ -87,8 +86,8 @@
 
 
 ## Active Experiments Summary
-- Updated: 2026-04-02
-- Total Active: 4
+- Updated: 2026-04-04
+- Total Active: 2
 - Strong Signals (7d): 0
 - Medium Signals (7d): 0
-- Weak Signals (7d): 4
+- Weak Signals (7d): 0 (site live but no distribution)
