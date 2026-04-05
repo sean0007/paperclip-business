@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-04 07:00 JST
+**Last updated:** 2026-04-06 07:02 JST (CEO Weekly Review)
 
 ---
 
@@ -7,7 +7,7 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 4 | 🟡 Day 4 — experiments live, distribution blocked |
+| **days_to_first_revenue** | 6 | 🔴 Day 6 — ZERO revenue, distribution blocked 6+ days on Sean |
 | **unresolved_dependencies** | 3 | 🔴 Reddit + Twitter + HN (all 96h+ overdue, Sean-owned) |
 | **launched_experiments** | 2 | 🟡 Active (CryptoWedge + Lane B) |
 | **weak_signals** | 0 | ⏳ No traffic yet |

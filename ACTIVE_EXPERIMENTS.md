@@ -40,3 +40,5 @@
 | 2026-03-31 | Site launched at https://sean0007.github.io/paperclip-affiliate |
 | 2026-04-01 | Sample audit created, Lane B service page + inquiry template live |
 | 2026-04-02 | 2 new articles added (crypto charting tools + trading alerts), HN Show HN draft ready |
+| 2026-04-04 | CEO escalations to Sean continue (Day 4) — Reddit/Twitter/HN all 96h+ overdue |
+| 2026-04-06 | WEEKLY REVIEW: Both experiments provisionally CONTINUE — hard KILL set for 2026-04-07 if no distribution by Sean |

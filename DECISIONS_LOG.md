@@ -88,4 +88,20 @@
 ---
 
 ## 🗑️ Killed Opportunities
-*(None yet — experiment not given proper 72h run yet)*
+### 2026-04-06 — WEEKLY REVIEW: All Experiments Continue (Provisional Kill Set for Day 7)
+**Decision:** Continue CryptoWedge and Lane B provisionally. Set hard KILL date for 2026-04-07 if no distribution by then.
+
+**Reasoning:**
+- Both experiments have 0 signals — BUT — zero distribution has been attempted (Sean has not created social accounts or submitted HN post in 6 days)
+- Kill rules measure signal AFTER distribution attempt, not signal before distribution exists
+- Day 7 = 2026-04-07 is the hard kill review date per NEXT_ACTIONS.md kill criteria
+- If Sean has not acted by 2026-04-07 07:00 JST: KILL CryptoWedge, KILL Lane B, PIVOT to Lane B service offers that require NO social accounts
+- Lane B service model (agent audits, OpenClaw setup) can be executed without social/HN — pivot to that on kill
+
+**Kill criteria active:**
+- CryptoWedge: 0 visits after 72h Reddit distribution → kill 2026-04-07 if still at 0 visits after distribution attempted
+- Lane B: 0 inquiries after 72h HN + Reddit → kill 2026-04-07 if still at 0 inquiries after distribution attempted
+
+**Structural pivot if both killed:** Full focus on OpenClaw/Paperclip agent services (Lane B pure) — can outreach via OpenClaw Discord directly, no social accounts needed. This is the pivot path.
+
+**Escalation:** CEO has escalated to Sean 4 times. Business has been at complete standstill for 6 days. Final kill review on Day 7.
