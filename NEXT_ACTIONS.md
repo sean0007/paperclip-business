@@ -1,18 +1,27 @@
 # NEXT ACTIONS — paperclip-business
-**Updated:** 2026-04-04 07:02 JST
+**Updated:** 2026-04-10 07:01 JST
 **CEO Routine:** Execute top 3 items EVERY morning without asking.
 
 ---
 
 ## 🚨 IMMEDIATE EXECUTE (Next 24 Hours)
 
-### BLOCKED — Waiting on Sean (5 min total, 96h+ overdue):
+### 🚨 EXECUTABLE TODAY — OpenClaw Discord Outreach (Pivot — No Sean Required)
 
 | Action | Link | Status |
 |--------|------|--------|
-| Submit HN Show HN post | https://news.ycombinator.com/submit | 🚨 OVERDUE 96h+ |
-| Create Reddit account | https://reddit.com/register | 🚨 OVERDUE 96h+ |
-| Create Twitter account | https://x.com/i/flow/signup | 🚨 OVERDUE 96h+ |
+| Lane B: OpenClaw Discord outreach | OpenClaw gateway / Discord | 🟡 READY TO EXECUTE — No Sean accounts needed |
+| Lane B: DM/pitch founders via OpenClaw network | Via Paperclip CEO / nodes | 🟡 READY TO EXECUTE |
+
+**OpenClaw Discord outreach is the pivot path.** No Reddit, no Twitter, no HN. Directly actionable today.
+
+### BLOCKED — Waiting on Sean (5 min total, 10+ days overdue):
+
+| Action | Link | Status |
+|--------|------|--------|
+| Submit HN Show HN post | https://news.ycombinator.com/submit | 🚨 OVERDUE 10+ DAYS |
+| Create Reddit account | https://reddit.com/register | 🚨 OVERDUE 10+ DAYS |
+| Create Twitter account | https://x.com/i/flow/signup | 🚨 OVERDUE 10+ DAYS |
 
 **Draft for HN:** `paperclip-business/ASSETS/HN_SHOW_HN_DRAFT.md`
 **Title:** "Show HN: I quit my analyst job to build AI agents that run businesses — here's what I learned"
@@ -21,21 +30,25 @@
 
 ## 📋 ALL PENDING ACTIONS (Priority Order)
 
-### 🔴 SEAN-MUST-DO (Business completely blocked — 96h+ overdue):
+### 🔴 SEAN-MUST-DO (Business completely blocked — 10+ days overdue):
 - [ ] Sean: Submit HN "Show HN" post (5 min — draft in ASSETS/HN_SHOW_HN_DRAFT.md)
-- [ ] Sean: Create Reddit account (3 min — 96h+ overdue)
-- [ ] Sean: Create Twitter account (3 min — 96h+ overdue)
+- [ ] Sean: Create Reddit account (3 min — 10+ days overdue)
+- [ ] Sean: Create Twitter account (3 min — 10+ days overdue)
 
-### 🟡 GROWTH (Executable immediately when accounts exist):
-- [ ] Post CryptoWedge articles to Reddit crypto communities
+### 🟡 GROWTH — OpenClaw Discord (Autonomous Pivot — Execute Today):
+- [ ] **Lane B: Post Lane B service offer in OpenClaw Discord #showcase or #general**
+  - Service: AI agent setup, audit, and management for founders/small teams
+  - Sample audit available: SAMPLE_AUDIT.md
+  - Inquiry template: INQUIRY_TEMPLATE.md
+- [ ] **Lane B: Direct outreach to OpenClaw nodes/contacts**
+  - Via Paperclip CEO network (nodes_notify or sessions_send)
+  - Pitch: "I help founders run their business on AI agents"
+- [ ] Post CryptoWedge articles to Reddit crypto communities (when Reddit account exists)
   - r/cryptocurrency, r/Bitcoin, r/ethereum, r/SideProject
   - Focus articles: charting tools + trading alerts (most recent)
-- [ ] Post Lane B services to r/Entrepreneur, r/SideProject, r/Startups
-- [ ] Share HN post on Twitter once account created
-- [ ] Share Lane B sample audit excerpt in available channels
 
 ### 🟢 CONTENT (Maintenance only — PAUSED until distribution works):
-- [ ] Write 2 more CryptoWedge articles (target: 10 total by Day 7) — **PAUSED**
+- [ ] Write 2 more CryptoWedge articles (target: 10 total by Day 14) — **PAUSED**
 - [ ] Internal links between all 8 pages — **VERIFY ONLY**
 - [ ] Add UTM parameters to affiliate links — **PENDING**
 - [ ] Sign up for 3Commas affiliate program — **PENDING**
@@ -46,67 +59,74 @@
 - [DONE] Inquiry template ready ✅ (INQUIRY_TEMPLATE.md)
 - [DONE] HN Show HN draft ready ✅ (ASSETS/HN_SHOW_HN_DRAFT.md)
 - [DONE] Service page footer with audit excerpt ✅
-- [READY] LinkedIn version of Lane B pitch — draft ready when needed
+- [READY] OpenClaw Discord outreach — executable today ✅
 
 ---
 
-## 🎯 72-HOUR TARGETS (From Day 4)
+## 🎯 72-HOUR TARGETS (From Day 10 — PIVOT ACTIVE)
 
 | Time | Goal | Owner |
 |---|---|---|
-| URGENT | Sean submits HN post | Sean (TODAY — 96h+ overdue) |
-| URGENT | Sean creates Reddit + Twitter | Sean (TODAY — 96h+ overdue) |
-| 24h | Reddit posts live (3 minimum) | Minmei (AUTO — when accounts exist) |
-| 24h | First CryptoWedge affiliate click | Minmei (AUTO — when accounts exist) |
-| 48h | Lane B: First inquiry email | Minmei (AUTO — when HN posted) |
-| 72h | Any first signal (weak/medium/strong) | Target |
+| TODAY | Execute OpenClaw Discord outreach | Minmei (AUTO — no Sean needed) |
+| TODAY | Sean submits HN post | Sean (10+ days overdue — URGENT) |
+| TODAY | Sean creates Reddit + Twitter | Sean (10+ days overdue — URGENT) |
+| 24h | Lane B: First inquiry via Discord outreach | Minmei (AUTO) |
+| 24h | First CryptoWedge affiliate click | Minmei (AUTO — when Reddit account exists) |
 
 ---
 
-## 🚨 KILL CRITERIA (Day 7 — 2026-04-07)
+## 🚨 KILL REVIEW TRIGGERED (Day 7 — 2026-04-07 PASSED)
 
-| Experiment | Kill trigger | Kill date |
-|---|---|---|
-| CryptoWedge | 0 visits after 72h of Reddit distribution | 2026-04-07 |
-| Lane B | 0 inquiries after 72h of HN + Reddit distribution | 2026-04-07 |
+| Experiment | Kill trigger | Kill date | Status |
+|---|---|---|---|
+| CryptoWedge | 0 visits after 72h of Reddit distribution | 2026-04-07 | 🚨 KILL REVIEW TRIGGERED — Pivot to Discord |
+| Lane B | 0 inquiries after 72h of HN + Reddit distribution | 2026-04-07 | 🚨 KILL REVIEW TRIGGERED — Pivot to Discord |
 
-**If kill triggered:** Lane B gets 1 more week (service offer redesign). CryptoWedge goes to maintenance only.
+**Day 7 deadline passed. Sean has not distributed. Pivot path: OpenClaw Discord outreach (autonomous, no Sean accounts needed).**
+
+**If Discord pivot fails (72h, 0 inquiries):** Activate Micro SaaS pivot per OPPORTUNITY_RANKING.md
 
 ---
 
-## 📁 OPPORTUNITY REVIEW STATUS (Day 4)
+## 📁 OPPORTUNITY REVIEW STATUS (Day 10)
 
-**No new review needed.** OPPORTUNITY_RANKING.md current.
+**Pivot reviewed:** OpenClaw Discord outreach is the zero-distribution lane. No social accounts needed.
 - Top 2 opportunities unchanged: Lane B (agent services) + Lane A (crypto affiliate)
-- Both already selected and running
-- No new information to re-score
-
-**If experiments killed (Day 7+):** Activate Micro SaaS (portfolio tracker) per OPPORTUNITY_RANKING.md
+- Pivot path active: Discord outreach for Lane B
+- Micro SaaS (portfolio tracker) on standby if Discord fails
 
 ---
 
-## 🚨 BOARD QUESTIONS (Day 4 Morning)
+## 🚨 BOARD QUESTIONS (Day 10 Morning)
 
-- [x] **Revenue alignment:** Are we doing the fastest revenue-generating activities? → Blocked on Sean
+- [x] **Revenue alignment:** Are we doing the fastest revenue-generating activities? → OpenClaw Discord outreach (autonomous) — today
 - [x] **Evidence:** What evidence exists that anyone wants what we're building? → Zero — no distribution
-- [x] **Fastest path:** What's the single action that most accelerates first revenue? → HN post (5 min, Sean)
-- [x] **Kill/Continue:** Any experiment with 0 signals after 7 days → CryptoWedge kill review 2026-04-07
-- [x] **Blockers:** What's blocked and who's needed? → Sean (Reddit, Twitter, HN)
+- [x] **Fastest path:** What's the single action that most accelerates first revenue? → OpenClaw Discord outreach (autonomous, today)
+- [x] **Kill/Continue:** Day 7 deadline passed → Kill review triggered, pivot to Discord outreach
+- [x] **Blockers:** What's blocked and who's needed? → Sean (Reddit, Twitter, HN) — 10+ days overdue
 
 ---
 
-## 📊 DAY 4 STATUS SUMMARY
+## 📊 DAY 10 STATUS SUMMARY
 
 | Metric | Value | Change |
 |--------|-------|--------|
-| Days running | 4 | +1 |
+| Days running | 10 | +4 |
 | Articles | 8 | — |
 | Site visits | 0 | — |
 | Affiliate clicks | 0 | — |
 | Lane B inquiries | 0 | — |
 | Revenue | $0.00 | — |
 | Blockers | 3 (Sean-owned) | — |
+| Pivot active | OpenClaw Discord | NEW |
 
 ---
 
-*Next refresh: 2026-04-05 07:00 JST*
+## 📈 MARKET CONTEXT (Day 10 Morning)
+
+**Market bias:** 🟢 BULLISH (79%) — BTC $72,408 (+1.13%), SOL $84 (+1.31%)
+**Implication:** Crypto affiliate content (Lane A) timing is favorable. BTC in bullish regime with high volatility. Active crypto audience = better conversion potential when distribution launches.
+
+---
+
+*Next refresh: 2026-04-11 07:00 JST*
