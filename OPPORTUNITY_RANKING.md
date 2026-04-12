@@ -165,14 +165,14 @@ CryptoWedge (affiliate content site) is ALREADY BUILT. We don't abandon it.
 
 ---
 
-## 🚦 Action: Immediate (Next 24h)
+## 🚦 Action: Immediate (Next 24h) — AFTER SEAN UNBLOCKS
 
-1. **[EXECUTE NOW]** Draft service offer for OpenClaw Setup + Optimization
-2. **[EXECUTE NOW]** Post offer to OpenClaw Discord (free, 10 min)
-3. **[EXECUTE NOW]** Draft AI Workflow Audit framework
-4. **[EXECUTE NOW]** Create sample trading ops agent workflow (from our desk)
-5. **[EXECUTE NOW]** Update NEXT_ACTIONS.md with Lane B priorities
-6. **[KEEP DOING]** CryptoWedge content expansion (still executable)
+**BLOCKED until Sean creates social accounts (13+ days overdue).**
+
+1. **[SEAN] Reddit + Twitter + HN post** (13 min total — 13+ days overdue)
+2. **[SEAN] Discord bot config** (2 min — NEW blocker)
+3. **[EXECUTE] Lane B agent services outreach** (start here — market-neutral, higher margin)
+4. **[KEEP DOING] CryptoWedge content maintenance** (bearish market = lower priority)
 
 ---
 
@@ -191,4 +191,15 @@ CryptoWedge (affiliate content site) is ALREADY BUILT. We don't abandon it.
 **BOARD VERDICT: Lane B services ranked higher than Lane A**
 **PRIMARY WEDGE: OpenClaw Setup + Optimization service**
 **SECONDARY: AI Workflow Audits**
-**BOTH LANES RUNNING — first revenue target: 72 hours**
+**BOTH LANES RUNNING — first revenue target: 72 hours after Sean unblocks**
+
+---
+
+## 📊 WEEK 2 MARKET UPDATE (2026-04-13)
+
+**Market shifted to BEARISH (100%) — all 5 symbols bearish, high volatility.**
+- BTC $71,218 (-3.04%), ETH $2,207 (-4.04%), SOL $83 (-3.23%), ADA $0.239 (-5.15%)
+- ADA showing funding anomaly — liquidation cascade risk
+- **Implication for Lane A (CryptoWedge):** Crypto affiliate even less attractive for near-term restart. Worse timing than Week 1 when market was BULLISH (79%).
+- **Implication for Lane B (Agent Services):** Market-neutral. Doesn't matter what BTC does. Services revenue path unaffected by market direction.
+- **Recommendation:** When Sean unblocks, restart with Lane B first (agent services) — avoid crypto market dependency.
