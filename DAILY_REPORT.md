@@ -169,7 +169,7 @@ CEO, paperclip-business
 
 ```
 ==============================================================
-               📊 MORNING BIAS REPORT — CEO Digest             
+               📊 MORNING BIAS REPORT — CEO Digest
 ==============================================================
   Generated : 2026-04-09 21:50 UTC
   ✅ Status   : LIVE
@@ -575,7 +575,7 @@ Minmei ♡
 
 ```
 ==============================================================
-               📊 MORNING BIAS REPORT — CEO Digest             
+               📊 MORNING BIAS REPORT — CEO Digest
 ==============================================================
   Generated : 2026-04-12 21:50 UTC
   ✅ Status   : LIVE
@@ -672,4 +672,124 @@ CEO, paperclip-business
 ## NEXT CEO REVIEW: 2026-04-14 07:00 JST
 
 **END CEO MORNING — 2026-04-13 07:00 JST**
+
+==============================================================
+
+## MORNING CEO ROUTINE — 2026-04-14 07:00 JST (Day 14)
+
+**COMPANY:** paperclip-business
+**DATE:** 2026-04-14 (Tuesday morning)
+**REVENUE:** $0.00
+**SIGNALS:** Weak=0 | Medium=0 | Strong=0
+**EXPERIMENTS:** Live=0 | Killed=2 | Pivoted=0
+
+**EVIDENCE OF DEMAND:** Zero — no distribution attempted in 14 days.
+- No site traffic
+- No affiliate clicks
+- No Lane B inquiries
+- Social accounts BLOCKED (Sean has not created them — 14+ days overdue)
+- HN draft ready but not submitted (Sean)
+- Discord pivot FAILED Day 12 — Discord not configured, no bot token
+- **ZERO executable autonomous actions remain**
+
+---
+
+## Morning Market Bias (2026-04-14 07:00 JST / 2026-04-13 22:00 UTC)
+
+```
+==============================================================
+               📊 MORNING BIAS REPORT — CEO Digest
+==============================================================
+  Generated : 2026-04-13 21:50 UTC
+  ✅ Status   : LIVE
+
+  🟢 MARKET BIAS : BULLISH  (69% confidence)
+                 2/5 bullish · HIGH volatility
+
+  Symbol     Dir      Strength         Price    24h %  Support / Resistance
+  ---------- -------- --------  ------------  -------  -------------------------
+  BTCUSDT    ⚪NEUTRAL      50%    $73,264.36    +2.87%  $70,505.88 — $73,480.00
+                 ↳ RSI=74.3 | MACD=bullish | Vol=high
+  ETHUSDT    ⚪NEUTRAL      50%     $2,261.69    +2.47%  $2,175.68 — $2,268.88
+                 ↳ RSI=70.3 | MACD=bullish | Vol=high
+  BNBUSDT    ⚪NEUTRAL      50%     $608.5300    +2.35%  $590.9500 — $609.3600
+                 ↳ RSI=65.4 | MACD=bullish | Vol=high
+  SOLUSDT    🟢BULLISH      52%      $83.9900    +1.57%  $81.2700 — $84.3600
+                 ↳ RSI=59.1 | MACD=bullish | Vol=high
+  ADAUSDT    🟢BULLISH      44%     $0.240600    +0.50%  $0.240000 — $0.240000
+                 ↳ RSI=52.8 | MACD=bullish | Vol=high
+
+  Source: binance.com (primary)
+==============================================================
+```
+
+**Market: BULLISH (69% confidence) — RECOVERY FROM BEARISH.** BTC $73,264 (+2.87%), ETH $2,262 (+2.47%), SOL $84 (+1.57%). RSI elevated on BTC (74.3) and ETH (70.3) — watch for resistance. High volatility. Recovery rally in progress. Market conditions improving for crypto affiliate (Lane A) when unblocked. Lane B (agent services) recommended as first restart when Sean unblocks.
+
+---
+
+## 🚨 BLOCKERS (Sean-Owned — Critical)
+
+| Blocker | Owner | Overdue | Impact |
+|---------|-------|---------|--------|
+| Reddit account creation | Sean | 14+ days | Blocks all crypto/startup Reddit posting |
+| Twitter account creation | Sean | 14+ days | Blocks amplification |
+| HN Show HN submission | Sean | 14+ days | Only zero-account channel available |
+| Discord bot configuration | Sean | 2 days | Blocks autonomous Discord outreach |
+
+---
+
+## 🎯 Kill/Continue Assessment (Day 14)
+
+| Experiment | Kill if | Status | Verdict |
+|---|---|---|---|
+| CryptoWedge | 0 visits after Reddit distribution for 72h | KILLED Day 10 evening | ✅ KILLED |
+| Lane B Agent Services | 0 inquiries after Discord + HN + Reddit for 72h | KILLED Day 12 evening | ✅ KILLED |
+
+---
+
+## 📋 Today's Autonomous Actions
+
+- [x] Update KPI_SCOREBOARD (Day 14)
+- [x] Update DAILY_REPORT (Day 14 morning) + market bias
+- [x] Refresh NEXT_ACTIONS.md for 2026-04-15
+- [ ] Git commit + push
+
+**Pivot status:** COMPLETE STANDSTILL. No executable actions remain without Sean.
+
+---
+
+## 🚨 CEO ESCALATION TO SEAN — Day 14
+
+sean,
+
+**Day 14. Zero revenue. Zero signals. 14+ days completely blocked.**
+
+Market has recovered to BULLISH (69%) — conditions improving for when we unblock. But the business remains at complete standstill.
+
+**14+ days. Still waiting on 13 minutes from you.**
+
+The ONLY things that unblock this business are yours to do:
+
+1. **HN post** (5 min) → https://news.ycombinator.com/submit
+   Draft: `paperclip-business/ASSETS/HN_SHOW_HN_DRAFT.md`
+
+2. **Reddit account** (3 min) → https://reddit.com/register
+
+3. **Twitter account** (3 min) → https://x.com/i/flow/signup
+
+4. **Discord bot** (2 min) → `openclaw channels add --channel discord --token <BOT_TOKEN>`
+
+**That's 13 minutes total. Everything is built and ready.**
+
+Minmei ♡
+CEO, paperclip-business
+2026-04-14 07:00 JST
+
+---
+
+## NEXT CEO REVIEW: 2026-04-15 07:00 JST
+
+**END CEO MORNING — 2026-04-14 07:00 JST**
+
+==============================================================
 

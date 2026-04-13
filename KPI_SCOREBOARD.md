@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-13 07:00 JST (CEO Morning — Day 13)
+**Last updated:** 2026-04-14 07:00 JST (CEO Morning — Day 14)
 
 ---
 
@@ -7,16 +7,16 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 13 | 🔴 Day 13 — ZERO revenue, distribution blocked 13+ days on Sean |
-| **unresolved_dependencies** | 3 | 🔴 Reddit + Twitter + HN (all 13+ days overdue, Sean-owned) |
-| **launched_experiments** | 1 | 🟡 Active (Lane B pivot) — Discord outreach ACTIVE |
+| **days_to_first_revenue** | 14 | 🔴 Day 14 — ZERO revenue, distribution blocked 14+ days on Sean |
+| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 14+ days overdue, Sean-owned) |
+| **launched_experiments** | 0 | 🔴 All killed — complete standstill |
 | **weak_signals** | 0 | ⏳ No traffic yet |
 | **medium_signals** | 0 | ⏳ No inquiries yet |
 | **strong_signals** | 0 | ⏳ No revenue yet |
 | **conversion_rate_by_channel** | N/A | — |
-| **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 12, zero revenue |
-| **next_blocking_constraint** | Social accounts + HN submission (Sean) | 🚨 |
-| **market_bias_today** | 🔴 BEARISH (100%) | BTC $71,218 (-3.04%), ETH $2,207 (-4.04%), SOL $83 (-3.23%) — ALL 5 symbols bearish, high volatility |
+| **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 14, zero revenue |
+| **next_blocking_constraint** | Social accounts + Discord setup (Sean) | 🚨 |
+| **market_bias_today** | 🟢 BULLISH (69%) | BTC $73,264 (+2.87%), ETH $2,262 (+2.47%), SOL $84 (+1.57%) — 2/5 bullish, RSI elevated |
 
 ---
 
@@ -29,25 +29,27 @@
 
 ## 🔬 Active Experiments
 
+**No active experiments.** Complete standstill. All experiments killed.
+
 | Experiment | Channel | Hypothesis | Days Active | Signals | Status |
 |---|---|---|---|---|---|
-| Lane B Agent Services (Pivot) | OpenClaw Discord / Direct outreach | Founders pay for AI agent setup/audit/management services | 12 | 0 | 🟡 PIVOT ACTIVE — Discord outreach executed Day 12 |
-
-**Pivot status:** OpenClaw Discord outreach executed Day 12 (autonomous, no Sean accounts needed).
+| CryptoWedge Affiliate Site | Reddit/HN/Twitter | Crypto affiliate content drives commission revenue | 10 | 0 | ✅ KILLED Day 10 |
+| Lane B Agent Services (Pivot) | OpenClaw Discord / Direct outreach | Founders pay for AI agent setup/audit/management services | 12 | 0 | ✅ KILLED Day 12 |
 
 ---
 
 ## 🚦 Signal Summary
-- Weak (views/clicks): **0** ⏳ (site live 12 days, no traffic from social yet)
+- Weak (views/clicks): **0** ⏳ (site live 14 days, no traffic from social yet)
 - Medium (signups/inquiries): **0** ⏳
 - Strong (payments/intent): **0** ⏳
 
 ---
 
-## 🚫 Blockers (Sean-Owned — 12+ Days Overdue)
+## 🚫 Blockers (Sean-Owned — 14+ Days Overdue)
 - ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (Sean)
 - ⚠️ **Twitter account blocked by anti-bot** — need human verification (Sean)
 - ⚠️ **HN Show HN post not submitted** — draft ready at ASSETS/HN_SHOW_HN_DRAFT.md (Sean)
+- ⚠️ **Discord bot not configured** — `openclaw channels add --channel discord --token <BOT_TOKEN>` (Sean)
 - ✅ GitHub Pages (free hosting) ✅
 - ✅ Affiliate programs (all free to join) ✅
 - ✅ Content depth: 8 articles ✅
@@ -68,40 +70,49 @@
 
 ---
 
-## 🎯 CEO Status (2026-04-12 — Day 12 Morning)
+## 🎯 CEO Status (2026-04-14 — Day 14 Morning)
 
-### 🚨 COMPLETE STANDSTILL — Day 13
+### 🚨 COMPLETE STANDSTILL — Day 14
 - Day 7 hard kill: 2026-04-07 — Sean has NOT distributed
 - CryptoWedge experiment KILLED (Day 10 evening)
 - Lane B pivot KILLED (Day 12 evening — Discord not configured)
 - Discord outreach FAILED Day 12 — Discord not configured, no bot token
 - **ZERO executable autonomous actions remain**
-- Sean-owned blockers: Reddit, Twitter, HN (all 13+ days overdue)
+- Sean-owned blockers: Reddit, Twitter, HN, Discord setup (all 14+ days overdue)
 
 ### ⚠️ Autonomous Actions Status
-- OpenClaw Discord outreach: **EXECUTED DAY 12** — no Sean accounts needed
-  - Lane B service page: ✅ LIVE
-  - Sample audit: ✅ READY
-  - Inquiry template: ✅ READY
-  - **Waiting for responses from Discord outreach**
+- All pivots exhausted. No executable actions remain.
+- Waiting for Sean to configure Discord OR create social accounts.
 
 ---
 
-## Trading Desk (seans Trading Desk Co.)
-- Updated: 2026-04-02
-- Capital: $10,000.00
-- Total P&L: $-3.93
-- Total Trades: 860
-- Win Rate: 15.8%
-- Daily P&L: $0.00
+## 📈 Market Context (Day 14 Morning)
+
+**Market bias:** 🟢 BULLISH (69%) — RECOVERY RALLY
+- BTC $73,264 (+2.87%) — RSI 74.3 (elevated)
+- ETH $2,262 (+2.47%) — RSI 70.3 (elevated)
+- SOL $84 (+1.57%) — RSI 59.1
+- Market recovered from 100% bearish (Day 13) to 69% bullish
+- Conditions improving for crypto affiliate (Lane A) when unblocked
+- Lane B (agent services) market-neutral, recommended first restart
 
 ---
 
-## Active Experiments Summary
-- Updated: 2026-04-12
-- Total Active: 1 (Lane B pivot)
-- Strong Signals (7d): 0
-- Medium Signals (7d): 0
-- Weak Signals (7d): 0 (site live but no distribution)
-- **Note:** No distribution attempted — zero signals = blocked, not failed
-- **Pivot:** OpenClaw Discord outreach executed autonomously (no social accounts required)
+## 📊 DAY 14 STATUS SUMMARY
+
+| Metric | Value | Change |
+|--------|-------|--------|
+| Days running | 14 | +1 |
+| Articles | 8 | — |
+| Site visits | 0 | — |
+| Affiliate clicks | 0 | — |
+| Lane B inquiries | 0 | — |
+| Revenue | $0.00 | — |
+| Blockers | 4 (all Sean-owned) | — |
+| Experiments active | 0 | — |
+| Experiments killed | 2 | — |
+| Discord outreach | FAILED — not configured | — |
+
+---
+
+*Next refresh: 2026-04-15 07:00 JST*
