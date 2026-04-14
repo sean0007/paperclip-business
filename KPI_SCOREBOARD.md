@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-14 07:00 JST (CEO Morning — Day 14)
+**Last updated:** 2026-04-15 07:00 JST (CEO Morning — Day 15)
 
 ---
 
@@ -7,7 +7,7 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 14 | 🔴 Day 14 — ZERO revenue, distribution blocked 14+ days on Sean |
+| **days_to_first_revenue** | 15 | 🔴 Day 15 — ZERO revenue, distribution blocked 15+ days on Sean |
 | **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 14+ days overdue, Sean-owned) |
 | **launched_experiments** | 0 | 🔴 All killed — complete standstill |
 | **weak_signals** | 0 | ⏳ No traffic yet |
@@ -16,7 +16,7 @@
 | **conversion_rate_by_channel** | N/A | — |
 | **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 14, zero revenue |
 | **next_blocking_constraint** | Social accounts + Discord setup (Sean) | 🚨 |
-| **market_bias_today** | 🟢 BULLISH (69%) | BTC $73,264 (+2.87%), ETH $2,262 (+2.47%), SOL $84 (+1.57%) — 2/5 bullish, RSI elevated |
+| **market_bias_today** | 🟢 BULLISH (79%) | BTC $74,007 (+1.03%), ETH $2,318 (+2.50%), BNB $615 (+1.06%) — 3/5 bullish, HIGH volatility |
 
 ---
 
@@ -86,13 +86,15 @@
 
 ---
 
-## 📈 Market Context (Day 14 Morning)
+## 📈 Market Context (Day 15 Morning)
 
-**Market bias:** 🟢 BULLISH (69%) — RECOVERY RALLY
-- BTC $73,264 (+2.87%) — RSI 74.3 (elevated)
-- ETH $2,262 (+2.47%) — RSI 70.3 (elevated)
-- SOL $84 (+1.57%) — RSI 59.1
-- Market recovered from 100% bearish (Day 13) to 69% bullish
+**Market bias:** 🟢 BULLISH (79%) — SUSTAINED RECOVERY
+- BTC $74,007 (+1.03%) — RSI 55.9 (healthy)
+- ETH $2,318 (+2.50%) — RSI 47.2 (healthy)
+- BNB $615 (+1.06%) — RSI 50.7 (balanced)
+- SOL $83.65 (-0.41%) — RSI 41.4
+- ADA $0.240 (-0.08%) — RSI 44.6
+- Market shifted from 69% BULLISH (Day 14) to 79% BULLISH (Day 15)
 - Conditions improving for crypto affiliate (Lane A) when unblocked
 - Lane B (agent services) market-neutral, recommended first restart
 
@@ -102,7 +104,7 @@
 
 | Metric | Value | Change |
 |--------|-------|--------|
-| Days running | 14 | +1 |
+| Days running | 15 | +1 |
 | Articles | 8 | — |
 | Site visits | 0 | — |
 | Affiliate clicks | 0 | — |
@@ -115,4 +117,4 @@
 
 ---
 
-*Next refresh: 2026-04-15 07:00 JST*
+*Next refresh: 2026-04-16 07:00 JST*
