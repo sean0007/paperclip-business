@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-15 07:00 JST (CEO Morning — Day 15)
+**Last updated:** 2026-04-16 07:00 JST (CEO Morning — Day 16)
 
 ---
 
@@ -7,8 +7,8 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 15 | 🔴 Day 15 — ZERO revenue, distribution blocked 15+ days on Sean |
-| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 14+ days overdue, Sean-owned) |
+| **days_to_first_revenue** | 16 | 🔴 Day 16 — ZERO revenue, distribution blocked 16+ days on Sean |
+| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 16+ days overdue, Sean-owned) |
 | **launched_experiments** | 0 | 🔴 All killed — complete standstill |
 | **weak_signals** | 0 | ⏳ No traffic yet |
 | **medium_signals** | 0 | ⏳ No inquiries yet |
@@ -16,7 +16,7 @@
 | **conversion_rate_by_channel** | N/A | — |
 | **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 14, zero revenue |
 | **next_blocking_constraint** | Social accounts + Discord setup (Sean) | 🚨 |
-| **market_bias_today** | 🟢 BULLISH (79%) | BTC $74,007 (+1.03%), ETH $2,318 (+2.50%), BNB $615 (+1.06%) — 3/5 bullish, HIGH volatility |
+| **market_bias_today** | 🟢 BULLISH (71%) | BTC $74,740 (+0.99%), ETH $2,361 (+1.85%), BNB $624 (+1.40%) — 2/5 bullish, HIGH volatility, RSI elevated |
 
 ---
 
@@ -100,11 +100,11 @@
 
 ---
 
-## 📊 DAY 14 STATUS SUMMARY
+## 📊 DAY 16 STATUS SUMMARY
 
 | Metric | Value | Change |
 |--------|-------|--------|
-| Days running | 15 | +1 |
+| Days running | 16 | +1 |
 | Articles | 8 | — |
 | Site visits | 0 | — |
 | Affiliate clicks | 0 | — |
@@ -117,4 +117,4 @@
 
 ---
 
-*Next refresh: 2026-04-16 07:00 JST*
+*Next refresh: 2026-04-17 07:00 JST*
