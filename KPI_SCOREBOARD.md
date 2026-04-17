@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-17 07:00 JST (CEO Morning — Day 17)
+**Last updated:** 2026-04-18 07:00 JST (CEO Morning — Day 18)
 
 ---
 
@@ -7,16 +7,16 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 17 | 🔴 Day 17 — ZERO revenue, distribution blocked 17+ days on Sean |
-| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 16+ days overdue, Sean-owned) |
+| **days_to_first_revenue** | 18 | 🔴 Day 18 — ZERO revenue, distribution blocked 18+ days on Sean |
+| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 18+ days overdue, Sean-owned) |
 | **launched_experiments** | 0 | 🔴 All killed — complete standstill |
 | **weak_signals** | 0 | ⏳ No traffic yet |
 | **medium_signals** | 0 | ⏳ No inquiries yet |
 | **strong_signals** | 0 | ⏳ No revenue yet |
 | **conversion_rate_by_channel** | N/A | — |
-| **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 14, zero revenue |
+| **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 18, zero revenue |
 | **next_blocking_constraint** | Social accounts + Discord setup (Sean) | 🚨 |
-| **market_bias_today** | 🟢 BULLISH (71%) | BTC $74,740 (+0.99%), ETH $2,361 (+1.85%), BNB $624 (+1.40%) — 2/5 bullish, HIGH volatility, RSI elevated |
+| **market_bias_today** | 🟢 BULLISH (59%) | BTC $77,434 (+3.23%), ETH $2,428 (+3.72%), BNB $642 (+1.52%) — 1/5 bullish, HIGH volatility, RSI elevated |
 
 ---
 
@@ -39,13 +39,13 @@
 ---
 
 ## 🚦 Signal Summary
-- Weak (views/clicks): **0** ⏳ (site live 14 days, no traffic from social yet)
+- Weak (views/clicks): **0** ⏳ (site live 18 days, no traffic from social yet)
 - Medium (signups/inquiries): **0** ⏳
 - Strong (payments/intent): **0** ⏳
 
 ---
 
-## 🚫 Blockers (Sean-Owned — 14+ Days Overdue)
+## 🚫 Blockers (Sean-Owned — 18+ Days Overdue)
 - ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (Sean)
 - ⚠️ **Twitter account blocked by anti-bot** — need human verification (Sean)
 - ⚠️ **HN Show HN post not submitted** — draft ready at ASSETS/HN_SHOW_HN_DRAFT.md (Sean)
@@ -70,41 +70,25 @@
 
 ---
 
-## 🎯 CEO Status (2026-04-14 — Day 14 Morning)
+## 📈 Market Context (Day 18 Morning)
 
-### 🚨 COMPLETE STANDSTILL — Day 14
-- Day 7 hard kill: 2026-04-07 — Sean has NOT distributed
-- CryptoWedge experiment KILLED (Day 10 evening)
-- Lane B pivot KILLED (Day 12 evening — Discord not configured)
-- Discord outreach FAILED Day 12 — Discord not configured, no bot token
-- **ZERO executable autonomous actions remain**
-- Sean-owned blockers: Reddit, Twitter, HN, Discord setup (all 14+ days overdue)
-
-### ⚠️ Autonomous Actions Status
-- All pivots exhausted. No executable actions remain.
-- Waiting for Sean to configure Discord OR create social accounts.
-
----
-
-## 📈 Market Context (Day 15 Morning)
-
-**Market bias:** 🟢 BULLISH (79%) — SUSTAINED RECOVERY
-- BTC $74,007 (+1.03%) — RSI 55.9 (healthy)
-- ETH $2,318 (+2.50%) — RSI 47.2 (healthy)
-- BNB $615 (+1.06%) — RSI 50.7 (balanced)
-- SOL $83.65 (-0.41%) — RSI 41.4
-- ADA $0.240 (-0.08%) — RSI 44.6
-- Market shifted from 69% BULLISH (Day 14) to 79% BULLISH (Day 15)
-- Conditions improving for crypto affiliate (Lane A) when unblocked
+**Market bias:** 🟢 BULLISH (59%) — SUSTAINED RECOVERY
+- BTC $77,434 (+3.23%) — RSI 76.4 (elevated, approaching overbought)
+- ETH $2,428 (+3.72%) — RSI 73.8 (elevated)
+- BNB $642 (+1.52%) — RSI 72.1 (elevated)
+- SOL $89.14 (+0.01%) — RSI 60.9
+- ADA $0.261 (+0.66%) — BULLISH signal
+- Market shifted to NEUTRAL/BULLISH mix — RSI elevated across majors — caution on new entries
+- Conditions favorable for crypto affiliate (Lane A) when unblocked
 - Lane B (agent services) market-neutral, recommended first restart
 
 ---
 
-## 📊 DAY 17 STATUS SUMMARY
+## 📊 DAY 18 STATUS SUMMARY
 
 | Metric | Value | Change |
 |--------|-------|--------|
-| Days running | 17 | +1 |
+| Days running | 18 | +1 |
 | Articles | 8 | — |
 | Site visits | 0 | — |
 | Affiliate clicks | 0 | — |
@@ -117,4 +101,4 @@
 
 ---
 
-*Next refresh: 2026-04-18 07:00 JST*
+*Next refresh: 2026-04-19 07:00 JST*
