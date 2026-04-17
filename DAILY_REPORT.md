@@ -1096,3 +1096,93 @@ CEO, paperclip-business
 ## NEXT CEO REVIEW: 2026-04-17 07:00 JST
 
 **END CEO EVENING — 2026-04-16 20:00 JST**
+
+==============================================================
+## MORNING CEO ROUTINE — 2026-04-17 07:00 JST (Day 17 Morning)
+
+**COMPANY:** paperclip-business
+**DATE:** 2026-04-17 (Friday morning)
+**REVENUE:** $0.00
+**SIGNALS:** Weak=0 | Medium=0 | Strong=0
+**EXPERIMENTS:** Live=0 | Killed=2
+
+**STATUS:** Complete standstill — Day 17 unchanged from Day 16.
+- No new signals today (same as 17 days prior)
+- No active experiments to report (both killed: CryptoWedge Day 10, Lane B Day 12)
+- Market is BULLISH (71%) — sustained recovery conditions
+- Sean-owned blockers unchanged: Reddit, Twitter, HN, Discord (17+ days overdue)
+
+---
+
+## Morning Market Bias
+
+==============================================================
+               📊 MORNING BIAS REPORT — CEO Digest             
+==============================================================
+  Generated : 2026-04-15 21:50 UTC
+  ✅ Status   : LIVE
+
+  🟢 MARKET BIAS : BULLISH  (71% confidence)
+                 2/5 bullish · HIGH volatility
+
+  Symbol     Dir      Strength         Price    24h %  Support / Resistance
+  ---------- -------- --------  ------------  -------  -------------------------
+  BTCUSDT    ⚪NEUTRAL      50%    $74,739.57    +0.99%  $73,514.00 — $75,281.00
+                 ↳ RSI=68.4 | MACD=bullish | Vol=high
+  ETHUSDT    ⚪NEUTRAL      50%     $2,361.11    +1.85%  $2,308.50 — $2,385.61
+                 ↳ RSI=65.8 | MACD=bullish | Vol=high
+  BNBUSDT    ⚪NEUTRAL      50%    $623.6000    +1.40%  $610.4500 — $627.6400
+                 ↳ RSI=67.3 | MACD=bullish | Vol=high
+  SOLUSDT    🟢BULLISH      50%      $84.7100    +1.27%  $82.6500 — $85.8300
+                 ↳ RSI=63.7 | MACD=bullish | Vol=high
+  ADAUSDT    🟢BULLISH      56%     $0.248000    +3.20%  $0.240000 — $0.250000
+                 ↳ RSI=64.9 | MACD=bullish | Vol=high
+
+  Source: binance.com (primary)
+==============================================================
+
+---
+
+## 📋 Today's Autonomous Actions
+
+- [x] Update KPI_SCOREBOARD (Day 17)
+- [x] Update DAILY_REPORT (Day 17 morning) + market bias
+- [x] Refresh NEXT_ACTIONS.md for 2026-04-18
+- [ ] Git commit + push
+
+**Pivot status:** COMPLETE STANDSTILL. No executable actions remain without Sean.
+
+---
+
+## 🚨 CEO ESCALATION TO SEAN — Day 17
+
+sean,
+
+**Day 17. Zero revenue. Zero signals. 17+ days completely blocked.**
+
+Market is 71% BULLISH — sustained recovery, RSI elevated across majors. Conditions are excellent for crypto affiliate content and Lane B agent services. But the business remains at complete standstill.
+
+**17+ days. Still waiting on 13 minutes from you.**
+
+The ONLY things that unblock this business are yours to do:
+
+1. **HN post** (5 min) → https://news.ycombinator.com/submit
+   Draft: `paperclip-business/ASSETS/HN_SHOW_HN_DRAFT.md`
+
+2. **Reddit account** (3 min) → https://reddit.com/register
+
+3. **Twitter account** (3 min) → https://x.com/i/flow/signup
+
+4. **Discord bot** (2 min) → `openclaw channels add --channel discord --token <BOT_TOKEN>`
+
+**That's 13 minutes total. Everything is built and ready.**
+
+Minmei ♡
+CEO, paperclip-business
+2026-04-17 07:00 JST
+
+---
+
+## NEXT CEO REVIEW: 2026-04-18 07:00 JST
+
+**END CEO MORNING — 2026-04-17 07:00 JST**

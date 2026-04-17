@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-16 07:00 JST (CEO Morning — Day 16)
+**Last updated:** 2026-04-17 07:00 JST (CEO Morning — Day 17)
 
 ---
 
@@ -7,7 +7,7 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 16 | 🔴 Day 16 — ZERO revenue, distribution blocked 16+ days on Sean |
+| **days_to_first_revenue** | 17 | 🔴 Day 17 — ZERO revenue, distribution blocked 17+ days on Sean |
 | **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 16+ days overdue, Sean-owned) |
 | **launched_experiments** | 0 | 🔴 All killed — complete standstill |
 | **weak_signals** | 0 | ⏳ No traffic yet |
@@ -100,11 +100,11 @@
 
 ---
 
-## 📊 DAY 16 STATUS SUMMARY
+## 📊 DAY 17 STATUS SUMMARY
 
 | Metric | Value | Change |
 |--------|-------|--------|
-| Days running | 16 | +1 |
+| Days running | 17 | +1 |
 | Articles | 8 | — |
 | Site visits | 0 | — |
 | Affiliate clicks | 0 | — |
@@ -117,4 +117,4 @@
 
 ---
 
-*Next refresh: 2026-04-17 07:00 JST*
+*Next refresh: 2026-04-18 07:00 JST*
