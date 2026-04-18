@@ -1,5 +1,5 @@
 # KPI SCOREBOARD — paperclip-business
-**Last updated:** 2026-04-18 07:00 JST (CEO Morning — Day 18)
+**Last updated:** 2026-04-19 07:00 JST (CEO Morning — Day 19)
 
 ---
 
@@ -7,8 +7,8 @@
 
 | KPI | Value | Status |
 |-----|-------|--------|
-| **days_to_first_revenue** | 18 | 🔴 Day 18 — ZERO revenue, distribution blocked 18+ days on Sean |
-| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 18+ days overdue, Sean-owned) |
+| **days_to_first_revenue** | 19 | 🔴 Day 19 — ZERO revenue, distribution blocked 19+ days on Sean |
+| **unresolved_dependencies** | 4 | 🔴 Reddit + Twitter + HN + Discord setup (all 19+ days overdue, Sean-owned) |
 | **launched_experiments** | 0 | 🔴 All killed — complete standstill |
 | **weak_signals** | 0 | ⏳ No traffic yet |
 | **medium_signals** | 0 | ⏳ No inquiries yet |
@@ -16,7 +16,7 @@
 | **conversion_rate_by_channel** | N/A | — |
 | **revenue_to_date** | **$0.00** | 🔴 RED LINE — Day 18, zero revenue |
 | **next_blocking_constraint** | Social accounts + Discord setup (Sean) | 🚨 |
-| **market_bias_today** | 🟢 BULLISH (59%) | BTC $77,434 (+3.23%), ETH $2,428 (+3.72%), BNB $642 (+1.52%) — 1/5 bullish, HIGH volatility, RSI elevated |
+| **market_bias_today** | 🔴 BEARISH (100%) | BTC $75,782 (-2.13%), ETH $2,353 (-3.10%), BNB $632 (-1.65%) — 5/5 bearish, HIGH volatility, RSI oversold |
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚫 Blockers (Sean-Owned — 18+ Days Overdue)
+## 🚫 Blockers (Sean-Owned — 19+ Days Overdue)
 - ⚠️ **Reddit account blocked by CAPTCHA** — need human verification (Sean)
 - ⚠️ **Twitter account blocked by anti-bot** — need human verification (Sean)
 - ⚠️ **HN Show HN post not submitted** — draft ready at ASSETS/HN_SHOW_HN_DRAFT.md (Sean)
@@ -70,17 +70,17 @@
 
 ---
 
-## 📈 Market Context (Day 18 Morning)
+## 📈 Market Context (Day 19 Morning — SHIFTED TO BEARISH)
 
-**Market bias:** 🟢 BULLISH (59%) — SUSTAINED RECOVERY
-- BTC $77,434 (+3.23%) — RSI 76.4 (elevated, approaching overbought)
-- ETH $2,428 (+3.72%) — RSI 73.8 (elevated)
-- BNB $642 (+1.52%) — RSI 72.1 (elevated)
-- SOL $89.14 (+0.01%) — RSI 60.9
-- ADA $0.261 (+0.66%) — BULLISH signal
-- Market shifted to NEUTRAL/BULLISH mix — RSI elevated across majors — caution on new entries
-- Conditions favorable for crypto affiliate (Lane A) when unblocked
-- Lane B (agent services) market-neutral, recommended first restart
+**Market bias:** 🔴 BEARISH (100%) — FULL 5/5 BEARISH — SHARP REVERSAL
+- BTC $75,782 (-2.13%) — RSI 46.9 (oversold zone)
+- ETH $2,353 (-3.10%) — RSI 45.2 (oversold zone)
+- BNB $632 (-1.65%) — RSI 42.2 (oversold zone)
+- SOL $86.21 (-3.29%) — RSI 39.6 (oversold zone)
+- ADA $0.250 (-3.99%) — RSI 36.8 (deep oversold + funding anomaly)
+- **ALL 5 symbols bearish — sharp reversal from yesterday's 59% BULLISH**
+- RSI indicates oversold conditions — potential bounce possible but high volatility dangerous
+- Lane B (agent services) recommended as first restart when Sean unblocks — market-neutral
 
 ---
 
@@ -88,7 +88,7 @@
 
 | Metric | Value | Change |
 |--------|-------|--------|
-| Days running | 18 | +1 |
+| Days running | 19 | +1 |
 | Articles | 8 | — |
 | Site visits | 0 | — |
 | Affiliate clicks | 0 | — |
@@ -101,4 +101,4 @@
 
 ---
 
-*Next refresh: 2026-04-19 07:00 JST*
+*Next refresh: 2026-04-20 07:00 JST*
