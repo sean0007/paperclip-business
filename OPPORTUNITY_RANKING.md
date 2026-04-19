@@ -203,3 +203,17 @@ CryptoWedge (affiliate content site) is ALREADY BUILT. We don't abandon it.
 - **Implication for Lane A (CryptoWedge):** Crypto affiliate even less attractive for near-term restart. Worse timing than Week 1 when market was BULLISH (79%).
 - **Implication for Lane B (Agent Services):** Market-neutral. Doesn't matter what BTC does. Services revenue path unaffected by market direction.
 - **Recommendation:** When Sean unblocks, restart with Lane B first (agent services) — avoid crypto market dependency.
+
+---
+
+## 📊 WEEK 3 MARKET UPDATE (2026-04-20)
+
+**Market: BEARISH (100%) — ALL 5 symbols bearish, high volatility, RSI neutral/oversold.**
+- BTC $74,579 (-1.59%) — RSI 52.4 (neutral)
+- ETH $2,282 (-3.00%) — RSI 47.2 (neutral)
+- BNB $621 (-1.58%) — RSI 55.3 (neutral)
+- SOL $84.98 (-1.42%) — RSI 52.8 (neutral)
+- ADA $0.245 (-2.00%) — RSI 46.8 (neutral)
+- RSI neutral/oversold on all majors — potential bounce forming but high volatility
+- **Lane B (agent services) remains recommended first restart when Sean unblocks** — market-neutral, no crypto dependency
+- **CryptoWedge (Lane A) still blocked** — market bearish, social accounts not created by Sean (20+ days overdue)
